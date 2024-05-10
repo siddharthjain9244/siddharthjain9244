@@ -1,8 +1,9 @@
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
+<h3 align="center">A passionate backend developer from India currently working as backend developer at oriserve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthjain9244&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthjain9244" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthjain9244" alt="siddharthjain9244" /></a> </p>
+- 🔭 I’m currently working on [Orimon](https://orimon.ai)
 
 - 🌱 I’m currently learning **React,Sqs,Kafka**
 
@@ -28,5 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthjain9244&show_icons=true&locale=en&layout=compact" alt="siddharthjain9244" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthjain9244&show_icons=true&locale=en" alt="siddharthjain9244" /></p>
-
 
