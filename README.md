@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddharthjain9244](https://github.com/siddharthjain9244)
 
-- 💬 Ask me about **Sql,Nodejs,Mongodb**
+- 💬 Ask me about **SQL,Nodejs,MongoDB,Javascript,C++,Redis**
 
 - 📫 How to reach me **siddharthpla9244@gmail.com**
 
