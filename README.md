@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">A passionate backend developer from India currently working as backend developer at Oriserve</h3>
+<h3 align="center">I am an enthusiastic developer based in India, specializing in backend development and currently contributing my skills at Oriserve.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthjain9244&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthjain9244" /> </p>
 
